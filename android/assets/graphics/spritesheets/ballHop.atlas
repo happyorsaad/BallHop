@@ -1,0 +1,201 @@
+
+ballHop.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+iconFinal
+  rotate: false
+  xy: 1, 505
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+unlockButton
+  rotate: false
+  xy: 1, 203
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+cage
+  rotate: false
+  xy: 515, 668
+  size: 236, 349
+  orig: 236, 349
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 753, 867
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+resumeButton
+  rotate: false
+  xy: 753, 715
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+redPlatformSpikes
+  rotate: false
+  xy: 1155, 771
+  size: 300, 246
+  orig: 300, 246
+  offset: 0, 0
+  index: -1
+helpButton
+  rotate: false
+  xy: 1457, 792
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+blueButtonBase
+  rotate: false
+  xy: 753, 638
+  size: 400, 75
+  orig: 400, 75
+  offset: 0, 0
+  index: -1
+leaderboardButton
+  rotate: false
+  xy: 303, 278
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+rateButton
+  rotate: false
+  xy: 1155, 544
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+settingsButton
+  rotate: false
+  xy: 1457, 565
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+crossButton
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+shieldAura
+  rotate: false
+  xy: 1759, 817
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+whiteBack
+  rotate: false
+  xy: 1759, 615
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+shareButton
+  rotate: false
+  xy: 303, 51
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 515, 511
+  size: 200, 155
+  orig: 200, 155
+  offset: 0, 0
+  index: -1
+storeButton
+  rotate: false
+  xy: 717, 411
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 1019, 481
+  size: 107, 155
+  orig: 107, 155
+  offset: 0, 0
+  index: -1
+pauseIcon
+  rotate: false
+  xy: 605, 187
+  size: 150, 222
+  orig: 150, 222
+  offset: 0, 0
+  index: -1
+blackPlatform
+  rotate: false
+  xy: 757, 309
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+bluePlatform
+  rotate: false
+  xy: 757, 207
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+currency
+  rotate: false
+  xy: 605, 35
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+enemyBall
+  rotate: false
+  xy: 757, 55
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+greenPlatform
+  rotate: false
+  xy: 1759, 513
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+redPlatform
+  rotate: false
+  xy: 1128, 442
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+mainBall
+  rotate: false
+  xy: 1330, 392
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+safetyGem
+  rotate: false
+  xy: 1482, 413
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+videoAdIcon
+  rotate: false
+  xy: 1482, 311
+  size: 145, 100
+  orig: 145, 100
+  offset: 0, 0
+  index: -1
